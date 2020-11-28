@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/ref/saidaProdutos.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/bin/Debug/net5.0/saidaProdutos.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/ref/saidaProdutos.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/saidaProdutos/obj/Debug/net5.0/saidaProdutos.genruntimeconfig.cache
