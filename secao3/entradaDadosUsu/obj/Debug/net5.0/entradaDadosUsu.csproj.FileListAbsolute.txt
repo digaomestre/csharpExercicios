@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/ref/entradaDadosUsu.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/bin/Debug/net5.0/entradaDadosUsu.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/ref/entradaDadosUsu.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/entradaDadosUsu/obj/Debug/net5.0/entradaDadosUsu.genruntimeconfig.cache
