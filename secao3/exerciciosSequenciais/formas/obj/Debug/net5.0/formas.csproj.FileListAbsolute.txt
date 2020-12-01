@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/ref/formas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/bin/Debug/net5.0/formas.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/ref/formas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/formas/obj/Debug/net5.0/formas.genruntimeconfig.cache
