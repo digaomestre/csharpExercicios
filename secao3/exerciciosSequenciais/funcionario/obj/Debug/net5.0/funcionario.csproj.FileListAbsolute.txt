@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/ref/funcionario.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/bin/Debug/net5.0/funcionario.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/ref/funcionario.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/funcionario/obj/Debug/net5.0/funcionario.genruntimeconfig.cache
