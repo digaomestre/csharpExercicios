@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/ref/diferencaMulti.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/bin/Debug/net5.0/diferencaMulti.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/ref/diferencaMulti.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/diferencaMulti/obj/Debug/net5.0/diferencaMulti.genruntimeconfig.cache
