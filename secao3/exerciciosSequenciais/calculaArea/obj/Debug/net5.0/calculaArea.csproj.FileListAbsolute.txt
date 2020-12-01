@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/ref/calculaArea.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/bin/Debug/net5.0/calculaArea.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/ref/calculaArea.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/calculaArea/obj/Debug/net5.0/calculaArea.genruntimeconfig.cache
