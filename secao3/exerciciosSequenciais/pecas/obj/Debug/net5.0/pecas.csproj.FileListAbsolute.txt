@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/ref/pecas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/bin/Debug/net5.0/pecas.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/ref/pecas.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/exerciciosSequenciais/pecas/obj/Debug/net5.0/pecas.genruntimeconfig.cache
