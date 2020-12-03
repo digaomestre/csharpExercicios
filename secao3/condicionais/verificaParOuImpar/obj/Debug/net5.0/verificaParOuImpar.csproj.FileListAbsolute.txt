@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/ref/verificaParOuImpar.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/bin/Debug/net5.0/verificaParOuImpar.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/ref/verificaParOuImpar.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaParOuImpar/obj/Debug/net5.0/verificaParOuImpar.genruntimeconfig.cache
