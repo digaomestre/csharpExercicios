@@ -6,7 +6,14 @@ namespace verificaNegativo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Digite um valor inteiro:");
+            int num = int.Parse(Console.ReadLine());
+
+            if(num >= 0){
+                Console.WriteLine("NÃO NEGATIVO");
+            }else{
+                Console.WriteLine("NEGATIVO");
+            }
         }
     }
 }

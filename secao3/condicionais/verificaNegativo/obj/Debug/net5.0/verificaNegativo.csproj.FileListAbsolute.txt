@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.AssemblyInfo.cs
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo.deps.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo.runtimeconfig.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo.runtimeconfig.dev.json
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/ref/verificaNegativo.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/bin/Debug/net5.0/verificaNegativo.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/ref/verificaNegativo.dll
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.pdb
+/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/verificaNegativo/obj/Debug/net5.0/verificaNegativo.genruntimeconfig.cache
