@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WzOKrDVTJphnmTNGfKWnGaJQb7qFTbZ3xOCP9TY6krwUPwvQ7xa9kEsk+msqvhr5fxvGOz/rDN0r+XscydnnXQ==",
+  "dgSpecHash": "yu5jfHGsgGHVItyWqFAp8yeuLVL6evCpYfM/K5a8VmTFh4EHPOcZ9d72SVJBGz+YTI9QtZe0TrBT3DG+gVKw5A==",
   "success": true,
-  "projectFilePath": "/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
+  "projectFilePath": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

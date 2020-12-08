@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/rodrigo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
+      "projectUniqueName": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
       "projectName": "multiplos",
-      "projectPath": "/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/rodrigo/Documentos/Projetos/csharpExercicios/secao3/condicionais/multiplos/obj/",
+      "projectPath": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/multiplos.csproj",
+      "packagesPath": "/home/rodrigo/.nuget/packages/",
+      "outputPath": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/ref/multiplos.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/bin/Debug/net5.0/multiplos.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/ref/multiplos.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/multiplos/obj/Debug/net5.0/multiplos.genruntimeconfig.cache
