@@ -18,7 +18,32 @@ namespace hamburgueria
 
             Console.WriteLine("Digite o código do produto e quantidade: ");
             String[] produtos = Console.ReadLine().Split(';');
-            int prod1 = int.Parse(produtos[0])
+            int codigo = int.Parse(produtos[0]);
+            int qtde = int.Parse(produtos[1]);
+            double total = 0;
+
+            switch(codigo){
+                case 1:
+                    total = 4.00*qtde;
+                    break;
+                case 2:
+                    total = 4.50*qtde;
+                    break;
+                case 3:
+                    total = 5.00*qtde;
+                    break;
+                case 4:
+                    total = 2.00*qtde;
+                    break;
+                case 5:
+                    total = 1.00*qtde;
+                    break;
+                default:
+                    Console.WriteLine("Código invalido.");
+                    break;
+            }
+
+            Console.WriteLine($"Total: R$ {total.ToString("F2",CultureInfo.InvariantCulture)}");
 
         }
     }
