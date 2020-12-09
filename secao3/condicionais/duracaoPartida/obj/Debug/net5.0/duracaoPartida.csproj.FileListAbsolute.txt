@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/ref/duracaoPartida.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/bin/Debug/net5.0/duracaoPartida.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/ref/duracaoPartida.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/duracaoPartida/obj/Debug/net5.0/duracaoPartida.genruntimeconfig.cache

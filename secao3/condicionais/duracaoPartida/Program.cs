@@ -6,7 +6,9 @@ namespace duracaoPartida
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            String[] hora = Console.ReadLine().Split(' ');
+            int horaInicial = int.Parse(hora[0]);
+            int horaFinal = int.Parse(hora[1]);
         }
     }
 }
