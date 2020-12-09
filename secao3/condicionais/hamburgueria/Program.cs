@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Globalization;
 namespace hamburgueria
 {
     class Program
@@ -13,6 +13,12 @@ namespace hamburgueria
             Console.WriteLine("3 - X - Frango R$ 5.00");
             Console.WriteLine("4 - Torrada Simples R$ 2.00");
             Console.WriteLine("5 - Refrigerante R$ 1.00");
+
+            Console.WriteLine("*********************************");
+
+            Console.WriteLine("Digite o código do produto e quantidade: ");
+            String[] produtos = Console.ReadLine().Split(';');
+            int prod1 = int.Parse(produtos[0])
 
         }
     }

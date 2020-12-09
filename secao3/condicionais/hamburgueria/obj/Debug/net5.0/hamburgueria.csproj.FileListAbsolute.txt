@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/ref/hamburgueria.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/bin/Debug/net5.0/hamburgueria.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/ref/hamburgueria.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/hamburgueria/obj/Debug/net5.0/hamburgueria.genruntimeconfig.cache
