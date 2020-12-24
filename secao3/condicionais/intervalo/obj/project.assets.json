@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/rodrigo/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/intervalo.csproj",
       "projectName": "intervalo",
       "projectPath": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/intervalo.csproj",
-      "packagesPath": "/home/rodrigo/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

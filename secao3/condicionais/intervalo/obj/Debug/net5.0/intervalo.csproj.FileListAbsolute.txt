@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/ref/intervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/bin/Debug/net5.0/intervalo.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/ref/intervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/condicionais/intervalo/obj/Debug/net5.0/intervalo.genruntimeconfig.cache
