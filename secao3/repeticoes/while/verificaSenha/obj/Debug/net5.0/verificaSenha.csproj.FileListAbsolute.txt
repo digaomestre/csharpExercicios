@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/ref/verificaSenha.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/bin/Debug/net5.0/verificaSenha.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/ref/verificaSenha.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/verificaSenha/obj/Debug/net5.0/verificaSenha.genruntimeconfig.cache
