@@ -12,30 +12,27 @@ namespace combustivel
             cod = int.Parse(Console.ReadLine());
             while (cod != 4)
             {
-                switch (cod)
-                {
-                    case 1:
-                        a++;
-                        break;
-                    case 2:
-                        g++;
-                        break;
-                    case 3:
-                        d++;
-                        break;
-                    case 4:
-                        break;
-                    default:
-                        System.Console.WriteLine("codigo invalido!");
-                        do
-                        {
-                            System.Console.WriteLine("Digite outro codigo");
-                            cod = Console.ReadLine();
-                        } while (cod < 1 || cod > 4);
-                        break;
+                if(cod == 1){
+                    a++;
+                }else if(cod == 2){
+                    g++;
+                }else if(cod == 3){
+                    d++;
+                }
 
+                if(cod < 1 || cod > 4){
+                    System.Console.WriteLine("codigo invalido!");
+                    do
+                    {
+                        System.Console.WriteLine("Digite outro codigo:");
+                        cod = int.Parse(Console.ReadLine());   
+                    } while (cod < 1 || cod > 4);
+                }else{
+                    cod = int.Parse(Console.ReadLine()); 
                 }
             }
+
+            System.Console.WriteLine($"\n Alcool:{a} \n Gasolina{g} \n Diesel:{d} ");
         }
     }
 }

@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/ref/combustivel.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/bin/Debug/net5.0/combustivel.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/ref/combustivel.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/while/combustivel/obj/Debug/net5.0/combustivel.genruntimeconfig.cache
