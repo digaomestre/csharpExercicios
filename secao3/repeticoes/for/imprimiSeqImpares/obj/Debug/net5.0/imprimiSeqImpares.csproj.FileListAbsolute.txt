@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/ref/imprimiSeqImpares.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/bin/Debug/net5.0/imprimiSeqImpares.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/ref/imprimiSeqImpares.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/imprimiSeqImpares/obj/Debug/net5.0/imprimiSeqImpares.genruntimeconfig.cache

@@ -14,8 +14,8 @@ namespace imprimiSeqImpares
                 System.Console.WriteLine("o valor está fora de intervalo.");
             }else
             {
-                for(int i = 0; i < x; i += 2){
-                    System.Console.WriteLine(i);
+                for(int i = 1; i < x; i += 2){
+                    System.Console.WriteLine($"\n{i}");
                 }
             }
         }
