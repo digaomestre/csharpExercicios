@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/ref/dentroIntervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/bin/Debug/net5.0/dentroIntervalo.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/ref/dentroIntervalo.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/dentroIntervalo/obj/Debug/net5.0/dentroIntervalo.genruntimeconfig.cache
