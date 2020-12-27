@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/ref/mediaPonderada.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/bin/Debug/net5.0/mediaPonderada.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/ref/mediaPonderada.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/mediaPonderada/obj/Debug/net5.0/mediaPonderada.genruntimeconfig.cache
