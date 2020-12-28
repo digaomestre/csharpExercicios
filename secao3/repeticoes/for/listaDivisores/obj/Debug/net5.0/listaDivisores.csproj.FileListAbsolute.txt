@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/ref/listaDivisores.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/bin/Debug/net5.0/listaDivisores.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/ref/listaDivisores.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/listaDivisores/obj/Debug/net5.0/listaDivisores.genruntimeconfig.cache
