@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/ref/divisivelFor.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/bin/Debug/net5.0/divisivelFor.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/ref/divisivelFor.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/divisivelFor/obj/Debug/net5.0/divisivelFor.genruntimeconfig.cache

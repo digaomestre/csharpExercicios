@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/ref/fatorial.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/bin/Debug/net5.0/fatorial.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/ref/fatorial.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/repeticoes/for/fatorial/obj/Debug/net5.0/fatorial.genruntimeconfig.cache
