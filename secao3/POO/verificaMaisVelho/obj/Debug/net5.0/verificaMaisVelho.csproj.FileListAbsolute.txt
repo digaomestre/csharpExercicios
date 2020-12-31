@@ -1,0 +1,16 @@
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho.deps.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho.runtimeconfig.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho.runtimeconfig.dev.json
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/ref/verificaMaisVelho.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/bin/Debug/net5.0/verificaMaisVelho.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.csprojAssemblyReference.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/ref/verificaMaisVelho.dll
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.pdb
+/home/rodrigo/Documentos/estudos/c#/csharpExercicios/secao3/POO/verificaMaisVelho/obj/Debug/net5.0/verificaMaisVelho.genruntimeconfig.cache
